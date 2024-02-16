@@ -1,10 +1,10 @@
-Food Ordering App Analytics Project
+# Food Ordering App Analytics Project 
 
-###Objective:
+### Objective:
 
 This project revolves around analyzing data from a food ordering app using SQL. The primary objective was to delve into the dataset, understand the ordering patterns, and derive actionable insights to optimize operations and enhance customer satisfaction.
 
-###Approach:
+### Approach:
 
 * Data Cleaning and Preparation:
 Before analysis, meticulous data cleaning and preparation were conducted to ensure accuracy and readiness. Duplicate rows were removed to streamline the dataset and avoid redundancy, setting the stage for meaningful analysis.
@@ -22,7 +22,7 @@ Utilizing various SQL techniques such as common table expressions, window functi
 * Visualization and Presentation:
 The analysis outputs were exported into Excel for further processing and visualization. Suitable charts such as line charts, Gantt bar charts, clustered column charts, and stacked column charts were created to visually represent the insights derived from the SQL analysis.
 
-###Conclusion:
+### Conclusion:
 
 This project showcases the power of SQL in extracting insights from large datasets and driving informed decision-making in the realm of food ordering apps. By leveraging advanced SQL techniques and visualization tools, actionable insights were derived to optimize operations, improve customer experiences, and drive business growth.
 
